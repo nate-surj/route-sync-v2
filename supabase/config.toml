@@ -1,0 +1,5 @@
+
+project_id = "qutadbcjqvnvyckhorfi"
+
+[functions.llm-enhancement]
+  verify_jwt = true
